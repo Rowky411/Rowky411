@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on web application development and Sotware testing <br>🤝 I’m looking forward to enhancing my skills <br>🌱 I’m currently learning Test automation<br>
+🔭 I’m currently working on web application development and Software testing <br>🤝 I’m looking forward to enhancing my skills <br>🌱 I’m currently learning Test automation<br>
 
 
 ## 🌐 Socials:
